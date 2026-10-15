@@ -1,0 +1,7 @@
+# Build artifacts
+*.zip
+*.tar.gz
+
+# Logs & temp files
+*.log
+.cache/

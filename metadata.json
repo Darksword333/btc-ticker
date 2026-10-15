@@ -1,0 +1,15 @@
+{
+  "name": "BTC Ticker",
+  "description": "Displays real-time Bitcoin price in the top bar from Binance.",
+  "uuid": "btc-ticker@Darksword",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/Darksword333/btc-ticker",
+  "version": 1
+}
